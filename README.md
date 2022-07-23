@@ -52,9 +52,9 @@ An image kernel is a small matrix used to apply effects like the ones you might 
 
 for apllying 3x3 **blur**.
 
-           [ 1, 1, 1       [ 0.0625, 0.125, 0.0625
-    1/9 *    1, 1, 1    =    0.125,  0.25,  0.125 
-             1, 1, 1 ]       0.0625, 0.125, 0.0625 ]
+      [ 0.0625, 0.125, 0.0625
+        0.125,  0.25,  0.125 
+        0.0625, 0.125, 0.0625 ]
                     
 		 
 <br /> 
