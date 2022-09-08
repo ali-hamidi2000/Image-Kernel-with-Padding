@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<b><h4 align="center">.:: Blur imaage with kernel 3*3 ::.</h4></b>
+<b><h4 align="center">.:: Blurring an image with kernel 3*3 ::.</h4></b>
 
 <p align="center">
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a>
