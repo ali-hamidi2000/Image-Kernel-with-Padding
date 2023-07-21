@@ -15,20 +15,6 @@
 <a href="https://github.com/AmirMwhmd/Blur-image-with-kernel/network/members"><img src="https://img.shields.io/badge/Developers-2-lightgrey" alt="HSL" width="100"></a>
 </p>
 
-<br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Awrsha)
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/awrsha._.parvizi)
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ItsAwrsha)
-
-
-<br />
 <div align="center">
    <h1>Welcome to our vision task <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -46,6 +32,33 @@
 # Languages
 <code>
 <img  height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code> &nbsp;&nbsp; <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> &nbsp;&nbsp; <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+## Requirements
+
+To run this program, you will need:
+- Python 3.x installed on your machine
+- NumPy library for Python
+
+## Installation
+
+1. Install Python 3.x from the official website: [Python](https://www.python.org/downloads/)
+2. Install NumPy library using pip:
+   ```
+   pip install numpy
+   ```
+
+## Usage
+
+1. Clone or download the source code from this repository.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Place your input image in the project directory.
+4. Open the `image_filtering.py` file in a text editor and modify the `input_image_filename` variable to match the filename of your input image.
+5. Modify the `kernel` variable to change the kernel values if desired.
+6. Use the following command to run the program:
+   ````
+   python fileName.py
+   ````
+7. The output image will be saved in the project directory with the filename `output.jpg`.
 
 # Image Kernels ⚙️
 An image kernel is a small matrix used to apply effects like the ones you might find in Photoshop or Gimp, such as blurring, sharpening, outlining or embossing. They're also used in machine learning for 'feature extraction', a technique for determining the most important portions of an image. In this context the process is referred to more generally as "convolution" (see: [convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network).)
